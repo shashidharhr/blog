@@ -9,4 +9,4 @@ git clone
 bundle install
 bundle update
 rake db:migrate
-rails s 
+rails s
